@@ -1,0 +1,88 @@
+@font-face {
+  font-family: 'Geist';
+  src: url('GeistVF.ttf') format('truetype');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #0a0a0a;
+  max-width: 100vw;
+}
+
+header {
+  width: 100vw;
+  height: 10vh;
+  line-height: 1.4;
+  padding: 20px 0 0 20px;
+  background-color: #000;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+header a {
+  padding-left: 30px;
+  color: #F3F3F3;
+  text-decoration: none;
+  font-family: 'geist', sans-serif;
+  font-size: 36px;
+}
+
+header a:hover {
+  color: #FFF;
+  text-shadow:
+  0 0 7px #fff,
+  0 0 10px #fff,
+  0 0 21px #fff;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 90vh;
+  font-size: 26px;
+  margin-bottom: 400px;
+}
+
+.sub_container {
+  background-color: #0a0a0a;
+  padding: 100px;
+  padding-top: 12px;
+  max-height: 100%;
+}
+
+label {
+  display: block;
+  color: #EDEDED;
+  padding-top: 15px;
+}
+
+.sumbit_label {
+  padding-top: 25px;
+}
+
+textarea:focus, input:focus {
+  background-color: hsla(0,0%,100%,.02);
+}
+#submit:hover {
+  background-color: hsla(0,0%,100%,.09);
+}
+textarea, input {
+  height: 48px;
+  font-size: 1rem;
+  border-radius: 8px;
+  width: 100%;
+  background-color: #0a0a0a;
+  border: none;
+  order: 1;
+  outline: none;
+  transition: border-color .15s, box-shadow .15s;
+  color: #EDEDED;
+  box-shadow: 0 0 0 1px hsla(0,0%,100%,.14);  
+}
+

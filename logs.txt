@@ -1,0 +1,16 @@
+Error: No suitable driver found
+Error: Get Connection Failed: No suitable driver found for jdbc:maiadb://localhost:3306/spaceplus
+Error: Get Connection Failed: No suitable driver found for jdbc:maiadb://localhost:3306/spaceplus
+Error: Get Connection Failed: No suitable driver found for jdbc:maiadb://localhost:3306/spaceplus
+Error: Get Connection Failed: No suitable driver found for jdbc:maiadb://localhost:3306/spaceplus
+Error: Get Connection Failed: No suitable driver found for jdbc:maiadb://localhost:3306/spaceplus
+Error: Get Connection Failed: No suitable driver found for jdbc:maiadb://localhost:3306/spaceplus
+Error: Get Connection Failed: No suitable driver found for jdbc:maiadb://localhost:3306/spaceplus
+Error: Get Connection Failed: No suitable driver found for jdbc:maiadb://localhost:3306/spaceplus
+Error: Get Connection Failed: No suitable driver found for jdbc:maiadb://localhost:3306/spaceplus
+Error: Get Connection Failed: No suitable driver found for jdbc:maiadb://localhost:3306/spaceplus
+Error: Get Connection Failed: No suitable driver found for jdbc:maiadb://localhost:3306/spaceplus
+Error: Get Connection Failed: No suitable driver found for jdbc:maiadb://localhost:3306/spaceplus
+Error: Get Connection Failed: No suitable driver found for jdbc:maiadb://localhost:3306/spaceplus
+Error: Get Connection Failed: No suitable driver found for jdbc:maiadb://localhost:3306/spaceplus
+Error: Get Connection Failed: No suitable driver found for jdbc:maiadb://localhost:3306/spaceplus

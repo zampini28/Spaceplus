@@ -1,0 +1,210 @@
+@font-face {
+  font-family: 'Geist';
+  src: url('GeistVF.ttf') format('truetype');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} 
+
+html, body {
+  background-color: #141414;
+  max-width: 100vw;
+}
+
+header {
+  width: 100vw;
+  height: 10vh;
+  line-height: 1.4;
+  padding: 20px 0 0 20px;
+}
+
+header a {
+  padding-left: 30px;
+  color: #f3f3f3;
+  text-decoration: none;
+  font-family: 'geist', sans-serif;
+  font-size: 36px;
+}
+
+header a:hover {
+  color: #fff;
+  text-shadow:
+  0 0 7px #fff,
+  0 0 10px #fff,
+  0 0 21px #fff;
+}
+
+main {
+  width: 100vw;
+  height: 90vh;
+  display: flex;
+}
+
+.thumbnail_container {
+  width: 31%;
+  height: 100%;
+}
+
+.thumbnail_container img {
+  display: block;
+  height: 100%;
+}
+
+.content_container {
+  width: 69%;
+  height: 100%;
+}
+
+.upper_description_container {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  gap: 10px;
+  position: relative;
+}
+
+.upper_description_container h1 {
+  font-size: 72px;
+  font-weight: 700;
+  padding-left: 25px;
+  padding-top: 10px;
+  color: white;
+}
+
+.upper_description_container p {
+  font-family: monospace;
+  font-size: 24px;
+  color: white;
+  padding-left: 30px;
+  padding-top: 45px;
+  max-width: 20%;
+}
+
+
+
+
+
+
+
+.description_container {
+  width: 100%;
+  height: calc(100% - 200px);
+}
+.description_container p {
+  color: white; 
+  font-size: 44px;
+  padding: 20px;
+  padding-top: 35px;
+}
+
+
+
+
+
+
+
+
+
+.lower_description_container {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 100px;
+}
+
+.lower_description_container p {
+  font-family: monospace;
+  font-size: 24px;
+  color: white;
+  padding-left: 30px;
+}
+
+
+
+
+
+
+
+
+.rating_container {
+  background-image: url('star.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: 100px;
+  height: 100px;
+}
+.rating_container b {
+  position: absolute;
+  top: calc(50% - 13px);
+  font-size: 28px;
+  color: white;
+}
+
+
+
+
+
+
+
+
+.create_buttom {
+  background-image: url('create.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  filter: invert(100%);
+  position: absolute;
+  top: 2.5vh;
+  right: 75px;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+
+.update_buttom {
+  background-image: url('update.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  filter: invert(100%);
+  position: absolute;
+  top: 2.5vh;
+  right: 150px;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+
+.remove_buttom {
+  background-image: url('remove2.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  filter: invert(100%);
+  position: absolute;
+  top: calc(2.5vh - 5px);
+  right: 225px;
+  width: 35px;
+  height: 35px;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

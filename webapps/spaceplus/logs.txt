@@ -1,0 +1,533 @@
+[18-04-2024 21:28:21]Error: Get Connection Failed: No suitable driver found for jdbc:maiadb://localhost:3306/spaceplus
+[18-04-2024 21:31:05] Error: Get Connection Failed: No suitable driver found for jdbc:maiadb://localhost:3306/spaceplus
+[18-04-2024 21:33:53] Info: New Connection Established
+[18-04-2024 21:34:10] Info: New Connection Established
+[18-04-2024 21:34:14] Info: New Connection Established
+[18-04-2024 21:34:15] Info: New Connection Established
+[18-04-2024 21:34:46] Info: New Connection Established
+[18-04-2024 21:37:11] Info: Username is null
+[18-04-2024 21:37:11] Info: Password is null
+[18-04-2024 21:37:12] Info: New Connection Established
+[18-04-2024 21:37:20] Info: Username is null
+[18-04-2024 21:37:20] Info: Password is null
+[18-04-2024 21:37:20] Info: New Connection Established
+[18-04-2024 23:20:57] Info: Username is caio
+[18-04-2024 23:20:57] Info: Password is 1234
+[18-04-2024 23:20:58] Info: New Connection Established
+[18-04-2024 23:21:09] Info: Username is csadsad
+[18-04-2024 23:21:09] Info: Password is asdsadad
+[18-04-2024 23:21:09] Info: New Connection Established
+[18-04-2024 23:21:15] Info: Username is caio
+[18-04-2024 23:21:15] Info: Password is 1234
+[18-04-2024 23:21:15] Info: New Connection Established
+[19-04-2024 00:04:54] Info: Name is admin
+[19-04-2024 00:04:54] Info: Email is admin@mail.com
+[19-04-2024 00:04:54] Info: Username is admin
+[19-04-2024 00:04:54] Info: Password is admin
+[19-04-2024 00:04:54] Info: New Connection Established
+[19-04-2024 00:05:01] Info: Username is admin
+[19-04-2024 00:05:01] Info: Password is admin
+[19-04-2024 00:05:01] Info: New Connection Established
+[19-04-2024 00:05:50] Info: Name is admin
+[19-04-2024 00:05:50] Info: Email is admin@mail
+[19-04-2024 00:05:50] Info: Username is dsadad
+[19-04-2024 00:05:50] Info: Password is dsadasdsa
+[19-04-2024 00:05:50] Info: New Connection Established
+[19-04-2024 00:06:30] Info: Name is admin
+[19-04-2024 00:06:30] Info: Email is admin@mail.com
+[19-04-2024 00:06:30] Info: Username is dsadsa
+[19-04-2024 00:06:30] Info: Password is dasdasdsa
+[19-04-2024 00:06:30] Info: New Connection Established
+[19-04-2024 00:06:30] Error: Insert Customer Failed: (conn=57) Duplicate entry 'admin@mail.com' for key 'email'
+[19-04-2024 00:06:33] Info: Name is admin
+[19-04-2024 00:06:33] Info: Email is admin@mail.com
+[19-04-2024 00:06:33] Info: Username is dsadsa
+[19-04-2024 00:06:33] Info: Password is dasdasdsa
+[19-04-2024 00:06:33] Info: New Connection Established
+[19-04-2024 00:06:33] Error: Insert Customer Failed: (conn=58) Duplicate entry 'admin@mail.com' for key 'email'
+[19-04-2024 00:06:34] Info: Name is admin
+[19-04-2024 00:06:34] Info: Email is admin@mail.com
+[19-04-2024 00:06:34] Info: Username is dsadsa
+[19-04-2024 00:06:34] Info: Password is dasdasdsa
+[19-04-2024 00:06:34] Info: New Connection Established
+[19-04-2024 00:06:34] Error: Insert Customer Failed: (conn=59) Duplicate entry 'admin@mail.com' for key 'email'
+[19-04-2024 00:06:35] Info: Name is admin
+[19-04-2024 00:06:35] Info: Email is admin@mail.com
+[19-04-2024 00:06:35] Info: Username is dsadsa
+[19-04-2024 00:06:35] Info: Password is dasdasdsa
+[19-04-2024 00:06:35] Info: New Connection Established
+[19-04-2024 00:06:35] Error: Insert Customer Failed: (conn=60) Duplicate entry 'admin@mail.com' for key 'email'
+[19-04-2024 00:08:14] Info: Name is admin
+[19-04-2024 00:08:14] Info: Email is admin@mail.com
+[19-04-2024 00:08:14] Info: Username is sadsadad
+[19-04-2024 00:08:14] Info: Password is sadasdsa
+[19-04-2024 00:08:15] Info: New Connection Established
+[19-04-2024 00:08:15] Error: Insert Customer Failed: (conn=61) Duplicate entry 'admin@mail.com' for key 'email'
+[19-04-2024 00:08:16] Info: Name is admin
+[19-04-2024 00:08:16] Info: Email is admin@mail.com
+[19-04-2024 00:08:16] Info: Username is sadsadad
+[19-04-2024 00:08:16] Info: Password is sadasdsa
+[19-04-2024 00:08:16] Info: New Connection Established
+[19-04-2024 00:08:16] Error: Insert Customer Failed: (conn=62) Duplicate entry 'admin@mail.com' for key 'email'
+[19-04-2024 00:08:17] Info: Name is admin
+[19-04-2024 00:08:17] Info: Email is admin@mail.com
+[19-04-2024 00:08:17] Info: Username is sadsadad
+[19-04-2024 00:08:17] Info: Password is sadasdsa
+[19-04-2024 00:08:17] Info: New Connection Established
+[19-04-2024 00:08:17] Error: Insert Customer Failed: (conn=63) Duplicate entry 'admin@mail.com' for key 'email'
+[19-04-2024 00:10:29] Info: Name is sadsadsa
+[19-04-2024 00:10:29] Info: Email is dsdsad@dsadsa.com
+[19-04-2024 00:10:29] Info: Username is admin
+[19-04-2024 00:10:29] Info: Password is sadasdasd
+[19-04-2024 00:10:29] Info: New Connection Established
+[19-04-2024 00:10:29] Error: Insert Customer Failed: (conn=64) Duplicate entry 'admin' for key 'username'
+[19-04-2024 00:10:30] Info: Name is sadsadsa
+[19-04-2024 00:10:30] Info: Email is dsdsad@dsadsa.com
+[19-04-2024 00:10:30] Info: Username is admin
+[19-04-2024 00:10:30] Info: Password is sadasdasd
+[19-04-2024 00:10:30] Info: New Connection Established
+[19-04-2024 00:10:30] Error: Insert Customer Failed: (conn=65) Duplicate entry 'admin' for key 'username'
+[19-04-2024 00:11:45] Info: Name is dsadsadsad
+[19-04-2024 00:11:45] Info: Email is sadsadasd@dasdasd.com
+[19-04-2024 00:11:45] Info: Username is admin
+[19-04-2024 00:11:45] Info: Password is dasdsdas
+[19-04-2024 00:11:45] Info: New Connection Established
+[19-04-2024 00:11:45] Error: Insert Customer Failed: (conn=66) Duplicate entry 'admin' for key 'username'
+[19-04-2024 00:12:01] Info: Name is dsadsadsad
+[19-04-2024 00:12:01] Info: Email is admin@mail.com
+[19-04-2024 00:12:01] Info: Username is admindsada
+[19-04-2024 00:12:01] Info: Password is sadasd
+[19-04-2024 00:12:01] Info: New Connection Established
+[19-04-2024 00:12:01] Error: Insert Customer Failed: (conn=67) Duplicate entry 'admin@mail.com' for key 'email'
+[19-04-2024 00:12:16] Info: Name is dsadsadsad
+[19-04-2024 00:12:16] Info: Email is dasda@dasds.com
+[19-04-2024 00:12:16] Info: Username is test
+[19-04-2024 00:12:16] Info: Password is test
+[19-04-2024 00:12:16] Info: New Connection Established
+[19-04-2024 00:12:20] Info: Username is test
+[19-04-2024 00:12:20] Info: Password is test
+[19-04-2024 00:12:20] Info: New Connection Established
+[19-04-2024 02:48:30] Info: Username is caio
+[19-04-2024 02:48:30] Info: Password is 1234
+[19-04-2024 02:48:31] Info: New Connection Established
+[19-04-2024 02:48:49] Info: Name is admin
+[19-04-2024 02:48:49] Info: Email is admin@mail.com
+[19-04-2024 02:48:49] Info: Username is admin
+[19-04-2024 02:48:49] Info: Password is admin
+[19-04-2024 02:48:49] Info: New Connection Established
+[19-04-2024 02:48:53] Info: Username is admin
+[19-04-2024 02:48:53] Info: Password is admin
+[19-04-2024 02:48:53] Info: New Connection Established
+[19-04-2024 03:01:39] Info: Username is admin
+[19-04-2024 03:01:39] Info: Password is admin
+[19-04-2024 03:01:40] Info: New Connection Established
+[19-04-2024 03:38:19] Info: New Connection Established
+[19-04-2024 03:38:29] Info: New Connection Established
+[19-04-2024 03:40:43] Info: New Connection Established
+[19-04-2024 03:45:39] Info: New Connection Established
+[19-04-2024 03:47:07] Info: New Connection Established
+[19-04-2024 03:47:10] Info: New Connection Established
+[19-04-2024 03:47:11] Info: New Connection Established
+[19-04-2024 03:47:13] Info: New Connection Established
+[19-04-2024 03:47:59] Info: New Connection Established
+[19-04-2024 03:49:11] Info: New Connection Established
+[19-04-2024 03:52:43] Info: New Connection Established
+[19-04-2024 03:53:33] Info: New Connection Established
+[19-04-2024 03:53:37] Info: New Connection Established
+[19-04-2024 03:53:38] Info: New Connection Established
+[19-04-2024 03:54:34] Info: New Connection Established
+[19-04-2024 03:54:55] Info: New Connection Established
+[19-04-2024 03:55:43] Info: Username is admin
+[19-04-2024 03:55:43] Info: Password is admin
+[19-04-2024 03:55:43] Info: New Connection Established
+[19-04-2024 03:55:43] Info: New Connection Established
+[19-04-2024 03:58:02] Info: New Connection Established
+[19-04-2024 03:58:12] Info: New Connection Established
+[19-04-2024 03:58:32] Info: New Connection Established
+[19-04-2024 04:02:09] Info: New Connection Established
+[19-04-2024 04:04:47] Info: New Connection Established
+[19-04-2024 04:08:02] Info: New Connection Established
+[19-04-2024 04:08:03] Info: New Connection Established
+[19-04-2024 04:08:12] Info: New Connection Established
+[19-04-2024 04:08:13] Info: New Connection Established
+[19-04-2024 04:08:16] Info: New Connection Established
+[19-04-2024 04:08:54] Info: New Connection Established
+[19-04-2024 04:08:55] Info: New Connection Established
+[19-04-2024 04:09:06] Info: New Connection Established
+[19-04-2024 04:11:12] Info: New Connection Established
+[19-04-2024 04:11:26] Info: New Connection Established
+[19-04-2024 04:31:45] Info: New Connection Established
+[19-04-2024 04:31:57] Info: New Connection Established
+[19-04-2024 04:32:00] Info: New Connection Established
+[19-04-2024 04:33:59] Info: Username is admin
+[19-04-2024 04:33:59] Info: Password is admin
+[19-04-2024 04:34:00] Info: New Connection Established
+[19-04-2024 04:34:00] Info: New Connection Established
+[19-04-2024 04:34:04] Info: New Connection Established
+[19-04-2024 04:34:06] Info: New Connection Established
+[19-04-2024 04:34:09] Info: New Connection Established
+[19-04-2024 04:34:10] Info: New Connection Established
+[19-04-2024 04:36:04] Info: New Connection Established
+[19-04-2024 04:36:12] Info: New Connection Established
+[19-04-2024 04:40:19] Info: New Connection Established
+[19-04-2024 04:40:19] Info: New Connection Established
+[19-04-2024 04:41:25] Info: New Connection Established
+[19-04-2024 04:42:42] Info: New Connection Established
+[19-04-2024 04:45:03] Info: New Connection Established
+[19-04-2024 04:46:17] Info: New Connection Established
+[19-04-2024 04:46:23] Info: New Connection Established
+[19-04-2024 04:47:20] Info: New Connection Established
+[19-04-2024 04:54:42] Info: New Connection Established
+[19-04-2024 04:57:17] Info: New Connection Established
+[22-04-2024 01:57:48] Info: Driver was found
+[22-04-2024 01:57:50] Info: New Connection Established
+[22-04-2024 01:58:12] Info: Username is admin
+[22-04-2024 01:58:12] Info: Password is admin
+[22-04-2024 01:58:12] Info: New Connection Established
+[22-04-2024 01:58:12] Info: New Connection Established
+[22-04-2024 01:58:19] Info: id is 1
+[22-04-2024 01:58:19] Info: New Connection Established
+[22-04-2024 01:59:00] Info: New Connection Established
+[22-04-2024 01:59:02] Info: New Connection Established
+[22-04-2024 01:59:04] Info: id is 5
+[22-04-2024 01:59:04] Info: New Connection Established
+[22-04-2024 01:59:54] Info: id is 1
+[22-04-2024 01:59:54] Info: id is 1
+[22-04-2024 01:59:54] Info: Driver was found
+[22-04-2024 01:59:55] Info: New Connection Established
+[22-04-2024 01:59:55] Info: New Connection Established
+[22-04-2024 02:18:47] Info: id is 1
+[22-04-2024 02:18:47] Info: Driver was found
+[22-04-2024 02:18:48] Info: New Connection Established
+[22-04-2024 02:18:49] Info: New Connection Established
+[22-04-2024 02:19:54] Info: New Connection Established
+[22-04-2024 02:20:04] Info: Username is admin
+[22-04-2024 02:20:04] Info: Password is admin
+[22-04-2024 02:20:04] Info: New Connection Established
+[22-04-2024 02:20:04] Info: New Connection Established
+[22-04-2024 02:20:07] Info: id is 1
+[22-04-2024 02:20:07] Info: New Connection Established
+[22-04-2024 02:23:48] Info: Driver was found
+[22-04-2024 02:23:49] Info: New Connection Established
+[22-04-2024 02:24:00] Info: Username is admin
+[22-04-2024 02:24:00] Info: Password is admin
+[22-04-2024 02:24:00] Info: New Connection Established
+[22-04-2024 02:24:00] Info: New Connection Established
+[22-04-2024 02:24:03] Info: id is 1
+[22-04-2024 02:24:03] Info: New Connection Established
+[22-04-2024 02:25:33] Info: Driver was found
+[22-04-2024 02:25:34] Info: New Connection Established
+[22-04-2024 02:25:49] Info: id is 1
+[22-04-2024 02:25:49] Info: New Connection Established
+[22-04-2024 02:27:06] Info: New Connection Established
+[22-04-2024 02:27:08] Info: id is 2
+[22-04-2024 02:27:08] Info: New Connection Established
+[22-04-2024 02:27:17] Info: New Connection Established
+[22-04-2024 02:27:19] Info: id is 6
+[22-04-2024 02:27:19] Info: New Connection Established
+[22-04-2024 02:27:27] Info: New Connection Established
+[22-04-2024 02:27:29] Info: id is 5
+[22-04-2024 02:27:29] Info: New Connection Established
+[22-04-2024 02:27:34] Info: New Connection Established
+[22-04-2024 02:27:36] Info: id is 1
+[22-04-2024 02:27:36] Info: New Connection Established
+[22-04-2024 02:27:46] Info: id is 3
+[22-04-2024 02:27:46] Info: New Connection Established
+[22-04-2024 02:34:16] Info: Creating a film
+[22-04-2024 02:34:16] Info: New Connection Established
+[22-04-2024 02:34:28] Info: New Connection Established
+[22-04-2024 02:34:48] Info: Username is admin
+[22-04-2024 02:34:48] Info: Password is admin
+[22-04-2024 02:34:48] Info: New Connection Established
+[22-04-2024 02:34:48] Info: New Connection Established
+[22-04-2024 02:34:52] Info: id is 7
+[22-04-2024 02:34:52] Info: New Connection Established
+[22-04-2024 02:37:44] Info: id is 2
+[22-04-2024 02:37:44] Info: New Connection Established
+[22-04-2024 02:37:53] Info: id is 5
+[22-04-2024 02:37:53] Info: New Connection Established
+[22-04-2024 02:38:02] Info: id is 1
+[22-04-2024 02:38:02] Info: New Connection Established
+[22-04-2024 02:38:06] Info: id is 4
+[22-04-2024 02:38:06] Info: New Connection Established
+[22-04-2024 02:38:09] Info: id is 6
+[22-04-2024 02:38:09] Info: New Connection Established
+[22-04-2024 02:38:15] Info: id is 3
+[22-04-2024 02:38:15] Info: New Connection Established
+[22-04-2024 02:38:27] Info: id is 2
+[22-04-2024 02:38:27] Info: New Connection Established
+[22-04-2024 02:38:29] Info: New Connection Established
+[22-04-2024 02:38:31] Info: id is 5
+[22-04-2024 02:38:31] Info: New Connection Established
+[22-04-2024 02:38:32] Info: New Connection Established
+[22-04-2024 02:38:34] Info: id is 1
+[22-04-2024 02:38:34] Info: New Connection Established
+[22-04-2024 02:38:37] Info: New Connection Established
+[22-04-2024 02:42:04] Info: New Connection Established
+[22-04-2024 02:42:51] Info: New Connection Established
+[22-04-2024 02:43:07] Info: New Connection Established
+[22-04-2024 02:43:58] Info: New Connection Established
+[22-04-2024 02:44:16] Info: New Connection Established
+[22-04-2024 02:44:32] Info: New Connection Established
+[22-04-2024 02:44:50] Info: New Connection Established
+[22-04-2024 02:45:44] Info: New Connection Established
+[22-04-2024 02:46:07] Info: New Connection Established
+[22-04-2024 02:46:16] Info: New Connection Established
+[22-04-2024 02:47:01] Info: New Connection Established
+[22-04-2024 02:47:18] Info: New Connection Established
+[22-04-2024 02:47:31] Info: New Connection Established
+[22-04-2024 02:47:54] Info: New Connection Established
+[22-04-2024 02:48:31] Info: New Connection Established
+[22-04-2024 02:48:35] Info: New Connection Established
+[22-04-2024 02:49:46] Info: New Connection Established
+[22-04-2024 02:50:15] Info: New Connection Established
+[22-04-2024 03:04:23] Info: Driver was found
+[22-04-2024 03:04:24] Info: New Connection Established
+[22-04-2024 03:04:37] Info: Username is admin
+[22-04-2024 03:04:37] Info: Password is admin
+[22-04-2024 03:04:37] Info: New Connection Established
+[22-04-2024 03:04:37] Info: New Connection Established
+[22-04-2024 03:06:58] Info: Driver was found
+[22-04-2024 03:06:58] Info: New Connection Established
+[22-04-2024 03:07:09] Info: New Connection Established
+[22-04-2024 03:13:57] Info: New Connection Established
+[22-04-2024 03:14:06] Info: New Connection Established
+[22-04-2024 03:28:11] Info: New Connection Established
+[22-04-2024 04:15:49] Info: Search: Hello world
+[22-04-2024 04:15:49] Info: Mode: Ator
+[22-04-2024 04:15:51] Info: Search: null
+[22-04-2024 04:15:51] Info: Mode: null
+[22-04-2024 04:15:51] Info: Driver was found
+[22-04-2024 04:15:53] Info: New Connection Established
+[22-04-2024 04:15:53] Info: Search: null
+[22-04-2024 04:15:53] Info: Mode: null
+[22-04-2024 04:15:53] Info: New Connection Established
+[22-04-2024 04:16:00] Info: Search: null
+[22-04-2024 04:16:00] Info: Mode: null
+[22-04-2024 04:16:00] Info: New Connection Established
+[22-04-2024 04:16:01] Info: Search: null
+[22-04-2024 04:16:01] Info: Mode: null
+[22-04-2024 04:16:01] Info: New Connection Established
+[22-04-2024 04:16:02] Info: Search: null
+[22-04-2024 04:16:02] Info: Mode: null
+[22-04-2024 04:16:02] Info: New Connection Established
+[22-04-2024 04:16:03] Info: Search: null
+[22-04-2024 04:16:03] Info: Mode: null
+[22-04-2024 04:16:03] Info: New Connection Established
+[22-04-2024 04:16:03] Info: Search: null
+[22-04-2024 04:16:03] Info: Mode: null
+[22-04-2024 04:16:03] Info: New Connection Established
+[22-04-2024 04:16:05] Info: Search: null
+[22-04-2024 04:16:05] Info: Mode: null
+[22-04-2024 04:16:05] Info: New Connection Established
+[22-04-2024 04:16:06] Info: Search: null
+[22-04-2024 04:16:06] Info: Mode: null
+[22-04-2024 04:16:06] Info: New Connection Established
+[22-04-2024 04:16:06] Info: Search: null
+[22-04-2024 04:16:06] Info: Mode: null
+[22-04-2024 04:16:06] Info: New Connection Established
+[22-04-2024 04:16:07] Info: Search: null
+[22-04-2024 04:16:07] Info: Mode: null
+[22-04-2024 04:16:07] Info: New Connection Established
+[22-04-2024 04:16:07] Info: Search: null
+[22-04-2024 04:16:07] Info: Mode: null
+[22-04-2024 04:16:07] Info: New Connection Established
+[22-04-2024 04:16:25] Info: New Connection Established
+[22-04-2024 04:16:38] Info: Username is admin
+[22-04-2024 04:16:38] Info: Password is admin
+[22-04-2024 04:16:38] Info: New Connection Established
+[22-04-2024 04:16:39] Info: Search: null
+[22-04-2024 04:16:39] Info: Mode: null
+[22-04-2024 04:16:39] Info: New Connection Established
+[22-04-2024 04:17:39] Info: Driver was found
+[22-04-2024 04:17:40] Info: New Connection Established
+[22-04-2024 04:17:47] Info: Search: null
+[22-04-2024 04:17:47] Info: Mode: null
+[22-04-2024 04:17:47] Info: New Connection Established
+[22-04-2024 04:18:06] Info: Search: Thor
+[22-04-2024 04:18:06] Info: Mode: Título
+[22-04-2024 04:18:06] Info: New Connection Established
+[22-04-2024 04:18:35] Info: Search: Thor
+[22-04-2024 04:18:35] Info: Mode: Título
+[22-04-2024 04:18:35] Info: New Connection Established
+[22-04-2024 04:18:39] Info: Search: Thor
+[22-04-2024 04:18:39] Info: Mode: Título
+[22-04-2024 04:18:39] Info: New Connection Established
+[22-04-2024 04:18:41] Info: Search: Thor
+[22-04-2024 04:18:41] Info: Mode: Título
+[22-04-2024 04:18:41] Info: New Connection Established
+[22-04-2024 04:18:42] Info: Search: Thor
+[22-04-2024 04:18:42] Info: Mode: Título
+[22-04-2024 04:18:42] Info: New Connection Established
+[22-04-2024 04:18:56] Info: Search: O lobo
+[22-04-2024 04:18:56] Info: Mode: Título
+[22-04-2024 04:18:56] Info: New Connection Established
+[22-04-2024 04:19:20] Info: Search: Íngles
+[22-04-2024 04:19:20] Info: Mode: Linguagem
+[22-04-2024 04:19:20] Info: New Connection Established
+[22-04-2024 04:19:34] Info: Search: Bomba
+[22-04-2024 04:19:34] Info: Mode: Descrição
+[22-04-2024 04:19:34] Info: New Connection Established
+[22-04-2024 04:21:15] Info: Search: dsad
+[22-04-2024 04:21:15] Info: Mode: Título
+[22-04-2024 04:21:15] Info: New Connection Established
+[22-04-2024 04:21:48] Info: Search: dsad
+[22-04-2024 04:21:48] Info: Mode: Título
+[22-04-2024 04:21:48] Info: New Connection Established
+[22-04-2024 04:21:49] Info: Search: dsad
+[22-04-2024 04:21:49] Info: Mode: Título
+[22-04-2024 04:21:49] Info: New Connection Established
+[22-04-2024 04:21:50] Info: Search: dsad
+[22-04-2024 04:21:50] Info: Mode: Título
+[22-04-2024 04:21:50] Info: New Connection Established
+[22-04-2024 04:22:02] Info: Search: Noah
+[22-04-2024 04:22:02] Info: Mode: Diretor
+[22-04-2024 04:22:02] Info: New Connection Established
+[22-04-2024 04:22:10] Info: Search: Martin
+[22-04-2024 04:22:10] Info: Mode: Título
+[22-04-2024 04:22:10] Info: New Connection Established
+[22-04-2024 04:22:20] Info: Search: Martin
+[22-04-2024 04:22:20] Info: Mode: Diretor
+[22-04-2024 04:22:20] Info: New Connection Established
+[22-04-2024 04:22:50] Info: id is 3
+[22-04-2024 04:22:50] Info: New Connection Established
+[22-04-2024 04:22:58] Info: id is 3
+[22-04-2024 04:22:58] Info: New Connection Established
+[22-04-2024 04:24:18] Info: Search: Martin
+[22-04-2024 04:24:18] Info: Mode: Diretor
+[22-04-2024 04:24:18] Info: New Connection Established
+[22-04-2024 04:24:21] Info: id is 3
+[22-04-2024 04:24:21] Info: New Connection Established
+[22-04-2024 04:28:04] Info: id is 3
+[22-04-2024 04:28:04] Info: New Connection Established
+[22-04-2024 04:30:50] Info: id is 3
+[22-04-2024 04:30:50] Info: New Connection Established
+[22-04-2024 04:33:11] Info: id is 3
+[22-04-2024 04:33:11] Info: New Connection Established
+[22-04-2024 04:33:22] Info: Search: null
+[22-04-2024 04:33:22] Info: Mode: null
+[22-04-2024 04:33:22] Info: New Connection Established
+[22-04-2024 05:05:44] Info: Driver was found
+[22-04-2024 05:05:45] Info: New Connection Established
+[22-04-2024 05:05:56] Info: Username is admin
+[22-04-2024 05:05:56] Info: Password is admin
+[22-04-2024 05:05:56] Info: New Connection Established
+[22-04-2024 05:05:56] Info: Search: null
+[22-04-2024 05:05:56] Info: Mode: null
+[22-04-2024 05:05:56] Info: New Connection Established
+[22-04-2024 05:06:08] Info: id is 7
+[22-04-2024 05:06:08] Info: New Connection Established
+[22-04-2024 05:06:14] Info: New Connection Established
+[22-04-2024 05:08:24] Info: New Connection Established
+[22-04-2024 05:08:53] Info: updating a film
+[22-04-2024 05:08:53] Info: New Connection Established
+[22-04-2024 05:08:53] Info: id is 7
+[22-04-2024 05:08:53] Info: New Connection Established
+[22-04-2024 05:09:14] Info: New Connection Established
+[22-04-2024 05:13:13] Info: Driver was found
+[22-04-2024 05:13:14] Info: New Connection Established
+[22-04-2024 05:13:25] Info: Username is admin
+[22-04-2024 05:13:25] Info: Password is admin
+[22-04-2024 05:13:25] Info: New Connection Established
+[22-04-2024 05:13:25] Info: Search: null
+[22-04-2024 05:13:25] Info: Mode: null
+[22-04-2024 05:13:25] Info: New Connection Established
+[22-04-2024 05:13:34] Info: id is 3
+[22-04-2024 05:13:34] Info: New Connection Established
+[22-04-2024 05:13:48] Info: New Connection Established
+[22-04-2024 05:13:48] Info: Search: null
+[22-04-2024 05:13:48] Info: Mode: null
+[22-04-2024 05:13:48] Info: New Connection Established
+[22-04-2024 05:14:07] Info: Search: oppenheimer
+[22-04-2024 05:14:07] Info: Mode: Título
+[22-04-2024 05:14:07] Info: New Connection Established
+[22-04-2024 05:14:11] Info: Search: dsadsadas
+[22-04-2024 05:14:11] Info: Mode: Título
+[22-04-2024 05:14:11] Info: New Connection Established
+[22-04-2024 05:19:50] Info: Search: null
+[22-04-2024 05:19:50] Info: Mode: null
+[22-04-2024 05:19:50] Info: Driver was found
+[22-04-2024 05:19:51] Info: New Connection Established
+[22-04-2024 05:20:36] Info: Search: null
+[22-04-2024 05:20:36] Info: Mode: null
+[22-04-2024 05:20:36] Info: New Connection Established
+[22-04-2024 05:21:00] Info: Search: null
+[22-04-2024 05:21:00] Info: Mode: null
+[22-04-2024 05:21:00] Info: New Connection Established
+[22-04-2024 05:21:25] Info: Search: null
+[22-04-2024 05:21:25] Info: Mode: null
+[22-04-2024 05:21:25] Info: New Connection Established
+[22-04-2024 05:22:30] Info: Search: null
+[22-04-2024 05:22:30] Info: Mode: null
+[22-04-2024 05:22:30] Info: New Connection Established
+[22-04-2024 05:22:31] Info: Search: null
+[22-04-2024 05:22:31] Info: Mode: null
+[22-04-2024 05:22:31] Info: New Connection Established
+[22-04-2024 05:22:49] Info: Search: null
+[22-04-2024 05:22:49] Info: Mode: null
+[22-04-2024 05:22:49] Info: New Connection Established
+[22-04-2024 05:23:01] Info: Search: null
+[22-04-2024 05:23:01] Info: Mode: null
+[22-04-2024 05:23:01] Info: New Connection Established
+[22-04-2024 05:23:14] Info: Search: null
+[22-04-2024 05:23:14] Info: Mode: null
+[22-04-2024 05:23:14] Info: New Connection Established
+[22-04-2024 05:23:19] Info: Search: null
+[22-04-2024 05:23:19] Info: Mode: null
+[22-04-2024 05:23:19] Info: New Connection Established
+[22-04-2024 05:23:22] Info: Search: null
+[22-04-2024 05:23:22] Info: Mode: null
+[22-04-2024 05:23:22] Info: New Connection Established
+[22-04-2024 05:23:47] Info: Search: null
+[22-04-2024 05:23:47] Info: Mode: null
+[22-04-2024 05:23:47] Info: New Connection Established
+[22-04-2024 05:23:54] Info: id is 5
+[22-04-2024 05:23:54] Info: New Connection Established
+[22-04-2024 05:24:49] Info: Driver was found
+[22-04-2024 05:24:49] Info: New Connection Established
+[22-04-2024 05:38:54] Info: New Connection Established
+[22-04-2024 05:40:14] Info: Driver was found
+[22-04-2024 05:40:15] Info: New Connection Established
+[22-04-2024 05:42:07] Info: New Connection Established
+[22-04-2024 05:42:09] Info: New Connection Established
+[22-04-2024 05:42:22] Info: New Connection Established
+[22-04-2024 05:43:01] Info: New Connection Established
+[22-04-2024 06:02:26] Info: New Connection Established
+[22-04-2024 06:03:07] Info: New Connection Established
+[22-04-2024 06:03:31] Info: New Connection Established
+[22-04-2024 06:03:47] Info: New Connection Established
+[22-04-2024 06:03:54] Info: New Connection Established
+[22-04-2024 06:04:53] Info: New Connection Established
+[22-04-2024 06:06:06] Info: New Connection Established
+[22-04-2024 06:08:53] Info: New Connection Established
+[22-04-2024 06:08:59] Info: New Connection Established
+[22-04-2024 06:11:18] Info: New Connection Established
+[22-04-2024 06:15:59] Info: New Connection Established
+[22-04-2024 06:16:39] Info: New Connection Established
+[22-04-2024 06:17:18] Info: New Connection Established
+[22-04-2024 06:20:56] Info: New Connection Established
+[22-04-2024 06:21:38] Info: New Connection Established
+[22-04-2024 06:21:52] Info: New Connection Established
+[22-04-2024 06:22:05] Info: New Connection Established
+[22-04-2024 06:22:30] Info: New Connection Established
+[22-04-2024 06:23:02] Info: New Connection Established
+[22-04-2024 06:23:26] Info: New Connection Established
+[22-04-2024 06:23:43] Info: New Connection Established
+[22-04-2024 06:23:59] Info: New Connection Established
+[22-04-2024 06:24:52] Info: New Connection Established
+[22-04-2024 06:25:58] Info: New Connection Established
+[22-04-2024 06:27:12] Info: New Connection Established
+[22-04-2024 06:27:22] Info: New Connection Established
+[22-04-2024 06:27:38] Info: New Connection Established
+[22-04-2024 06:29:52] Info: New Connection Established
+[22-04-2024 06:30:12] Info: New Connection Established
+[22-04-2024 06:30:42] Info: New Connection Established
+[22-04-2024 06:31:11] Info: New Connection Established
+[22-04-2024 06:31:12] Info: New Connection Established
+[22-04-2024 06:31:20] Info: New Connection Established
+[22-04-2024 06:31:29] Info: New Connection Established
+[22-04-2024 06:31:42] Info: New Connection Established
+[22-04-2024 06:31:46] Info: New Connection Established
+[22-04-2024 06:32:15] Info: New Connection Established
+[22-04-2024 06:32:45] Info: New Connection Established
+[22-04-2024 06:38:11] Info: New Connection Established
